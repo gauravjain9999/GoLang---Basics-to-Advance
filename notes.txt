@@ -1,0 +1,8 @@
+1. Local Variable - Inside the function 
+2. Global Variable - globally accessible ( Must be Pascal Case) (Within a package)
+3. Package Level (Global + Package) (Mut be in Camel Case). Everywhere In Function 
+
+
+Shadowing 
+
+
