@@ -13,7 +13,7 @@ type Employee struct{
 
 func main(){
 
-	fmt.Println("This is Demo of Struct ")
+	// fmt.Println("This is Demo of Struct ")
 
 	emp := Employee{
 		101,
