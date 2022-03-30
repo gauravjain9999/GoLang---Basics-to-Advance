@@ -4,6 +4,15 @@ import "fmt"
 
 func main(){
 
+    //Slicing 
+
+	var sliceArr1 []int = []int {1,2,3,4};
+	sliceArr2 := append(sliceArr1, 5)
+
+	sliceArr3 := append(sliceArr1, sliceArr2...)
+	fmt.Println(sliceArr3)
+
+
 	// var arr [4]int = [4]int{1,2,3,4} //In this we initialize or fix the size of the array
 
 	//Another way 

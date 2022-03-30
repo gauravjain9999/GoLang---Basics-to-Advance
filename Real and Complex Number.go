@@ -23,7 +23,7 @@ import "fmt"
 
 
 
-func main() {
+func main(){
 
     fmt.Println("Welcome to Real and Complex number")
 

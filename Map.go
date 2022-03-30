@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main(){
 
 	empSal := make(map[string]int) //declaration
 	empSal = map[string]int{       // initialization
